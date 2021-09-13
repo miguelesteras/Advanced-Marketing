@@ -1,2 +1,2 @@
-# Digital-Marketing-Analytics
-Resources for Digital Marketing Analytics
+# Advanced Marketing
+Resources for Advanced Marketing
