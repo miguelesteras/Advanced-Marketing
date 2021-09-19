@@ -1,4 +1,5 @@
-numpy
 matplotlib
+numpy
 pandas
 scikit-learn
+tweepy
