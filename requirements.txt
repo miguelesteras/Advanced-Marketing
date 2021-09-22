@@ -1,5 +1,9 @@
 matplotlib
+nose
 numpy
 pandas
 scikit-learn
 tweepy
+seaborn
+wordcloud
+nltk
